@@ -3,6 +3,8 @@
 <h3> Content </h3>
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1): CRIM: per capita crime rate by town
 
+<br>
+
 * ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
 * INDUS: proportion of non-retail business acres per town
 * CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
